@@ -6,6 +6,7 @@ img: assets/img/9.jpg
 importance: 5
 category: work
 giscus_comments: true
+redirect: https://huggingface.co/datasets/Sayali9141/traffic_signal_images
 ---
 
 Every project has a beautiful feature showcase page.
